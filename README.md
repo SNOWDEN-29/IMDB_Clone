@@ -1,6 +1,6 @@
 # IMDB-Mini-Clone
 ##  Smaller clone of the IMDB built using OMDB-API built purely using HTML, CSS and Vanilla JS in seperate html, css and js code files.
-### Contributed by: Mr. Arpan Choudhury.
+### Contributed by: Ankit Patel.
 
 ![Sam](https://github.com/SNOWDEN-29/IMDB_Clone/assets/73507777/d2b99030-9bd8-4325-b0ad-a77666d6702e)
 
